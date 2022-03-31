@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **guyzip@gmail.com**
 
-- 📄 Know about my experiences [<will add later>](<will add later>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
