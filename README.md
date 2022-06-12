@@ -47,7 +47,7 @@ Correctly working at PalWallet.
 <a href = 'https://www.linkedin.com/in/guyzipory'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guyzipory&compact=True"/>
