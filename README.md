@@ -44,7 +44,7 @@ Correctly working at PalWallet.
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/><a href ='https://www.linkedin.com/in/guyzipory'></a> 
+<a href ='https://www.linkedin.com/in/guyzipory'><img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
   <br>
 
