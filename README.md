@@ -12,7 +12,7 @@
 
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I'm a Full-stack developer with 3+ years of experience in React, Javascript, Python, MongoDB, and Docker.
+I'm a Full-stack developer with 3+ years of experience in React, React Native, Javascript, Python, MongoDB, and Docker.
 Correctly working at PalWallet.
 <!-- - 🔭 I’m currently working on 
 
